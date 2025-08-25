@@ -7,5 +7,5 @@ mainset:
   - name: Rust
     probability: 1
 name: 'New Townname #1'
-source: ''
+source: null
 subsets: []
