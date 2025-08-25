@@ -1,7 +1,11 @@
-available: false
+available: true
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Eisenstadt
+    probability: 1
+  - name: Rust
+    probability: 1
 name: 'New Townname #0'
 source: null
 subsets:
